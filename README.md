@@ -1,6 +1,8 @@
 # vue-firebase-tutorial
 
-> A Vue.js project
+> A Vue.js project with firebase authentication
+
+refer to [Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
 
 ## Build Setup
 
